@@ -1,6 +1,6 @@
 # vue-Marvel
 
-This is the MArvel application built using Vue
+This is the Marvel application built using Vue
 
 ## Project setup
 
